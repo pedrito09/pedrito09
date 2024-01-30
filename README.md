@@ -1,6 +1,6 @@
 # Hi I'm Pedro :wave: :hatching_chick:
 
-<span>![</span><span>Por si no carga </span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/pedrito09/pedrito09/master/Images/Experiment Lain - Linux.jpg</span><span>)</span>
+<img src="https://github.com/pedrito09/pedrito09/Images/Experiment Lain - Linux" width="50%" />
 
 I am a computer science student, and I have a keen interest in databases, data management, and artificial intelligence, particularly in pattern recognition and machine learning.
 
